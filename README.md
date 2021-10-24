@@ -19,9 +19,9 @@ Command: wcat ne file_name(def.txt)
 6) To write in already existing file
 Command: wcat a abc.txt "THIS IS APPENDED CONTENT"
 
-8) To display content in reverse order
+7) To display content in reverse order
 Command: wcat rev abc.txt
 
-9) To write in a existing file an deleting previous content
+8) To write in a existing file an deleting previous content
 Command: wcat w def.txt "Hello this is newly added content"
 
